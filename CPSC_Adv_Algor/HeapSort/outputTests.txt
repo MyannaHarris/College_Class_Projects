@@ -1,0 +1,425 @@
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 10
+
+
+Heap sort Time (sec): 7.31945037842e-05
+
+Merge sort Time (sec): 6.19888305664e-05
+
+
+Heap sort Time (sec): 5.91278076172e-05
+
+Merge sort Time (sec): 5.60283660889e-05
+
+
+Heap sort Time (sec): 5.91278076172e-05
+
+Merge sort Time (sec): 5.50746917725e-05
+
+
+Heap sort Time (sec): 5.72204589844e-05
+
+Merge sort Time (sec): 5.3882598877e-05
+
+
+Heap sort Time (sec): 5.79357147217e-05
+
+Merge sort Time (sec): 5.50746917725e-05
+
+
+Heap sort Time (sec): 5.48362731934e-05
+
+Merge sort Time (sec): 5.41210174561e-05
+
+
+Heap sort Time (sec): 5.69820404053e-05
+
+Merge sort Time (sec): 5.31673431396e-05
+
+
+Heap sort Time (sec): 5.3882598877e-05
+
+Merge sort Time (sec): 5.3882598877e-05
+
+
+Heap sort Time (sec): 6.103515625e-05
+
+Merge sort Time (sec): 5.50746917725e-05
+
+
+Heap sort Time (sec): 5.79357147217e-05
+
+Merge sort Time (sec): 5.3882598877e-05
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 100
+
+
+Heap sort Time (sec): 0.000921010971069
+
+Merge sort Time (sec): 0.00343489646912
+
+
+Heap sort Time (sec): 0.000858068466187
+
+Merge sort Time (sec): 0.000824928283691
+
+
+Heap sort Time (sec): 0.000827074050903
+
+Merge sort Time (sec): 0.000804901123047
+
+
+Heap sort Time (sec): 0.000823020935059
+
+Merge sort Time (sec): 0.000814199447632
+
+
+Heap sort Time (sec): 0.000776052474976
+
+Merge sort Time (sec): 0.001384973526
+
+
+Heap sort Time (sec): 0.000725984573364
+
+Merge sort Time (sec): 0.000681161880493
+
+
+Heap sort Time (sec): 0.000700950622559
+
+Merge sort Time (sec): 0.000632047653198
+
+
+Heap sort Time (sec): 0.000616073608398
+
+Merge sort Time (sec): 0.000601053237915
+
+
+Heap sort Time (sec): 0.000627994537354
+
+Merge sort Time (sec): 0.000607013702393
+
+
+Heap sort Time (sec): 0.000622034072876
+
+Merge sort Time (sec): 0.000604152679443
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 1000
+
+
+Heap sort Time (sec): 0.0137479305267
+
+Merge sort Time (sec): 0.00905799865723
+
+
+Heap sort Time (sec): 0.0128209590912
+
+Merge sort Time (sec): 0.00971603393555
+
+
+Heap sort Time (sec): 0.00916481018066
+
+Merge sort Time (sec): 0.00771403312683
+
+
+Heap sort Time (sec): 0.0109322071075
+
+Merge sort Time (sec): 0.00940990447998
+
+
+Heap sort Time (sec): 0.00843095779419
+
+Merge sort Time (sec): 0.00773501396179
+
+
+Heap sort Time (sec): 0.0110168457031
+
+Merge sort Time (sec): 0.00938487052917
+
+
+Heap sort Time (sec): 0.0092179775238
+
+Merge sort Time (sec): 0.00804996490479
+
+
+Heap sort Time (sec): 0.00869703292847
+
+Merge sort Time (sec): 0.0103628635406
+
+
+Heap sort Time (sec): 0.00876784324646
+
+Merge sort Time (sec): 0.00946807861328
+
+
+Heap sort Time (sec): 0.00862288475037
+
+Merge sort Time (sec): 0.00932097434998
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 10000
+
+
+Heap sort Time (sec): 0.123372077942
+
+Merge sort Time (sec): 0.119678020477
+
+
+Heap sort Time (sec): 0.121974945068
+
+Merge sort Time (sec): 0.115775108337
+
+
+Heap sort Time (sec): 0.12241101265
+
+Merge sort Time (sec): 0.113379001617
+
+
+Heap sort Time (sec): 0.119899988174
+
+Merge sort Time (sec): 0.11313700676
+
+
+Heap sort Time (sec): 0.115993976593
+
+Merge sort Time (sec): 0.114437818527
+
+
+Heap sort Time (sec): 0.123193979263
+
+Merge sort Time (sec): 0.110721826553
+
+
+Heap sort Time (sec): 0.116234779358
+
+Merge sort Time (sec): 0.111972093582
+
+
+Heap sort Time (sec): 0.120269060135
+
+Merge sort Time (sec): 0.11162519455
+
+
+Heap sort Time (sec): 0.120980024338
+
+Merge sort Time (sec): 0.114411115646
+
+
+Heap sort Time (sec): 0.117985010147
+
+Merge sort Time (sec): 0.11589217186
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 50000
+
+
+Heap sort Time (sec): 0.693603038788
+
+Merge sort Time (sec): 0.915297031403
+
+
+Heap sort Time (sec): 0.671798944473
+
+Merge sort Time (sec): 0.913657903671
+
+
+Heap sort Time (sec): 0.678516149521
+
+Merge sort Time (sec): 0.928555965424
+
+
+Heap sort Time (sec): 0.672246932983
+
+Merge sort Time (sec): 0.914824962616
+
+
+Heap sort Time (sec): 0.678838014603
+
+Merge sort Time (sec): 0.914762020111
+
+
+Heap sort Time (sec): 0.686829090118
+
+Merge sort Time (sec): 0.963952064514
+
+
+Heap sort Time (sec): 0.673445940018
+
+Merge sort Time (sec): 0.922423124313
+
+
+Heap sort Time (sec): 0.680083036423
+
+Merge sort Time (sec): 0.909900903702
+
+
+Heap sort Time (sec): 0.684317111969
+
+Merge sort Time (sec): 0.918985128403
+
+
+Heap sort Time (sec): 0.680961847305
+
+Merge sort Time (sec): 0.925634145737
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 100000
+
+
+Heap sort Time (sec): 1.45124101639
+
+Merge sort Time (sec): 2.78269910812
+
+
+Heap sort Time (sec): 1.44749212265
+
+Merge sort Time (sec): 2.80363583565
+
+
+Heap sort Time (sec): 1.46927595139
+
+Merge sort Time (sec): 2.79946994781
+
+
+Heap sort Time (sec): 1.43177485466
+
+Merge sort Time (sec): 2.77490091324
+
+
+Heap sort Time (sec): 1.4473669529
+
+Merge sort Time (sec): 2.79774594307
+
+
+Heap sort Time (sec): 1.45256900787
+
+Merge sort Time (sec): 2.79981184006
+
+
+Heap sort Time (sec): 1.4154651165
+
+Merge sort Time (sec): 2.76576685905
+
+
+Heap sort Time (sec): 1.44583296776
+
+Merge sort Time (sec): 2.79007482529
+
+
+Heap sort Time (sec): 1.43860602379
+
+Merge sort Time (sec): 2.80068302155
+
+
+Heap sort Time (sec): 1.43715596199
+
+Merge sort Time (sec): 2.78665995598
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 500000
+
+
+Heap sort Time (sec): 8.64509797096
+
+Merge sort Time (sec): 55.6216740608
+
+
+Heap sort Time (sec): 8.64423704147
+
+Merge sort Time (sec): 58.894053936
+
+
+Heap sort Time (sec): 8.80999493599
+
+Merge sort Time (sec): 58.036386013
+
+
+Heap sort Time (sec): 8.47201013565
+
+Merge sort Time (sec): 57.1762590408
+
+
+Heap sort Time (sec): 8.79643297195
+
+Merge sort Time (sec): 57.5337450504
+
+
+Heap sort Time (sec): 8.89878177643
+
+Merge sort Time (sec): 56.0913441181
+
+
+Heap sort Time (sec): 8.55595302582
+
+Merge sort Time (sec): 58.8013739586
+
+
+Heap sort Time (sec): 8.9465200901
+
+Merge sort Time (sec): 55.2947220802
+
+
+Heap sort Time (sec): 8.59446382523
+
+Merge sort Time (sec): 55.7827978134
+
+
+Heap sort Time (sec): 8.61430811882
+
+Merge sort Time (sec): 59.6509621143
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ python compareHeapSort.py 
+Number of elements? 1000000
+
+
+Heap sort Time (sec): 20.0636589527
+
+Merge sort Time (sec): 237.402106047
+
+
+Heap sort Time (sec): 17.8095738888
+
+Merge sort Time (sec): 244.060638905
+
+
+Heap sort Time (sec): 18.131057024
+
+Merge sort Time (sec): 239.578533888
+
+
+Heap sort Time (sec): 17.7628419399
+
+Merge sort Time (sec): 246.237083912
+
+
+Heap sort Time (sec): 18.6984670162
+
+Merge sort Time (sec): 244.394520044
+
+
+Heap sort Time (sec): 19.9827890396
+
+Merge sort Time (sec): 251.752912998
+
+
+Heap sort Time (sec): 19.4917669296
+
+Merge sort Time (sec): 252.634297132
+
+
+Heap sort Time (sec): 19.0815620422
+
+Merge sort Time (sec): 246.697748899
+
+
+Heap sort Time (sec): 19.5661020279
+
+Merge sort Time (sec): 236.561490059
+
+
+Heap sort Time (sec): 18.6732518673
+
+Merge sort Time (sec): 244.263767958
+
+Myannas-MacBook-Pro:CPSC_Adv_Algor myannaharris$ 
